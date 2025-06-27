@@ -3,7 +3,7 @@ One of the built-in functions of Python is divmod, which takes two arguments  an
 
 For example:
 
->>> print divmod(177,10)
+# >>> print divmod(177,10)
 (17, 7)
 Here, the integer division is 177/10 => 17 and the modulo operator is 177%10 => 7.
 
